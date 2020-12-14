@@ -48,16 +48,16 @@ function App() {
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/home" exact component={Home} />
-        <Route path="/about" component={AboutMe} />
+        <Route path="/about" exact component={AboutMe} />
 
-        <Route path="/register" component={MyRegisterForm} />
-        <Route path="/signin" component={Authorization} />
+        <Route path="/register" exact component={MyRegisterForm} />
+        <Route path="/signin" exact component={Authorization} />
         <Route path="/cars" exact component={Cars} />
-        <Route path="/cars/bmw" component={BmwSlider} />
-        <Route path="/cars/mercedes" component={MercedesSlider} />
-        <Route path="/contact" component={Message} />
-        <Route path="/models" component={Models} />
-        <Route path="/manufacturer" component={Manufacturer} />
+        <Route path="/cars/bmw" exact component={BmwSlider} />
+        <Route path="/cars/mercedes" exact component={MercedesSlider} />
+        <Route path="/contact" exact component={Message} />
+        <Route path="/models" exact component={Models} />
+        <Route path="/manufacturer" exact component={Manufacturer} />
 
         <Route path="*" component={Error} />
       </Switch>
