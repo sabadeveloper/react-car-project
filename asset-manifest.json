@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-car-project/static/css/main.14787036.chunk.css",
+    "main.js": "/react-car-project/static/js/main.4d2e617d.chunk.js",
+    "main.js.map": "/react-car-project/static/js/main.4d2e617d.chunk.js.map",
+    "runtime-main.js": "/react-car-project/static/js/runtime-main.cf5b6ae9.js",
+    "runtime-main.js.map": "/react-car-project/static/js/runtime-main.cf5b6ae9.js.map",
+    "static/js/2.de91a4b1.chunk.js": "/react-car-project/static/js/2.de91a4b1.chunk.js",
+    "static/js/2.de91a4b1.chunk.js.map": "/react-car-project/static/js/2.de91a4b1.chunk.js.map",
+    "static/js/3.6beb34d9.chunk.js": "/react-car-project/static/js/3.6beb34d9.chunk.js",
+    "static/js/3.6beb34d9.chunk.js.map": "/react-car-project/static/js/3.6beb34d9.chunk.js.map",
+    "index.html": "/react-car-project/index.html",
+    "static/css/main.14787036.chunk.css.map": "/react-car-project/static/css/main.14787036.chunk.css.map",
+    "static/js/2.de91a4b1.chunk.js.LICENSE.txt": "/react-car-project/static/js/2.de91a4b1.chunk.js.LICENSE.txt",
+    "static/media/bg.a768ab23.jpg": "/react-car-project/static/media/bg.a768ab23.jpg",
+    "static/media/bmw.ffda1b5f.png": "/react-car-project/static/media/bmw.ffda1b5f.png",
+    "static/media/bmw1.08c94644.jpg": "/react-car-project/static/media/bmw1.08c94644.jpg",
+    "static/media/bmw2.cdaceffe.jpg": "/react-car-project/static/media/bmw2.cdaceffe.jpg",
+    "static/media/bmw3.e3f3ff89.jpg": "/react-car-project/static/media/bmw3.e3f3ff89.jpg",
+    "static/media/car.464b2f52.png": "/react-car-project/static/media/car.464b2f52.png",
+    "static/media/car.cf77c085.jpg": "/react-car-project/static/media/car.cf77c085.jpg",
+    "static/media/home.css": "/react-car-project/static/media/road.f04b9b9c.jpg",
+    "static/media/city1.99166d1c.png": "/react-car-project/static/media/city1.99166d1c.png",
+    "static/media/logo.6ce24c58.svg": "/react-car-project/static/media/logo.6ce24c58.svg",
+    "static/media/merso.1b567c41.png": "/react-car-project/static/media/merso.1b567c41.png",
+    "static/media/merso1.3da9fe86.jpg": "/react-car-project/static/media/merso1.3da9fe86.jpg",
+    "static/media/merso2.bd82d0e1.jpg": "/react-car-project/static/media/merso2.bd82d0e1.jpg",
+    "static/media/merso3.212f8a1a.jpg": "/react-car-project/static/media/merso3.212f8a1a.jpg",
+    "static/media/sky.72db9325.jpg": "/react-car-project/static/media/sky.72db9325.jpg",
+    "static/media/tesla.a7f4d496.png": "/react-car-project/static/media/tesla.a7f4d496.png",
+    "static/media/toyota.968ed694.png": "/react-car-project/static/media/toyota.968ed694.png",
+    "static/media/volkswagen.162a7d33.png": "/react-car-project/static/media/volkswagen.162a7d33.png",
+    "static/media/wheel.c79d2fd7.png": "/react-car-project/static/media/wheel.c79d2fd7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5b6ae9.js",
+    "static/js/2.de91a4b1.chunk.js",
+    "static/css/main.14787036.chunk.css",
+    "static/js/main.4d2e617d.chunk.js"
+  ]
+}
