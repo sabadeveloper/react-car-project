@@ -1,0 +1,127 @@
+.box select {
+  background-color: #0563af;
+  color: #ffffff;
+  padding: 4px;
+  width: 304px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+.box::before {
+  content: "\f13a";
+  font-family: FontAwesome;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30%;
+  height: 89%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+  pointer-events: none;
+}
+
+.box:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.box select option {
+  padding: 30px;
+}
+
+.container {
+  width: 300px;
+}
+
+.container input {
+  width: 100%;
+}
+
+.inputs {
+  height: 30px;
+  width: 100px;
+  font-size: 20px;
+  border: none;
+  background-color: #0563af;
+  color: white;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  font-style: serif;
+}
+
+.labels {
+  color: black;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 120%;
+}
+
+.register {
+  border-color: black;
+  font-family: cursive;
+  text-align: center;
+}
+
+.divdiv {
+  position: absolute;
+
+  margin-right: 50px;
+  left: 30%;
+  top: 9%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 0px 100px 4px 100px;
+  opacity: 80%;
+}
+
+.body-image {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.button {
+  border-radius: 4px;
+  background-color: green;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 230px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0;
+  font-family: cursive;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}

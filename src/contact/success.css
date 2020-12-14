@@ -1,0 +1,34 @@
+.blink {
+  width: 800px;
+  height: 80px;
+  background-color: rgb(57, 46, 148);
+  padding: 15px;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 3px;
+  position: "absolute";
+  margin: 0 auto;
+  margin-top: 20%;
+  display: block;
+  box-shadow: 10px 10px 5px grey;
+}
+.h1blink {
+  font-size: 37px;
+  font-family: cursive;
+
+  color: white;
+  animation: blink 1s linear infinite;
+  margin-top: 10px;
+  border-style: groove;
+}
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
